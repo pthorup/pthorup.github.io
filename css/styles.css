@@ -38,17 +38,13 @@ li a {
   font-size: 1.2rem;
 }
 
-li:hover {
+li:hover,
+li.active {
   background-color: #ff0081;
 }
 
 li a:visited {
   color: #fff;
-}
-
-li a:hover,
-li.active {
-  background-color: #ff0081;
 }
 .main {
   width: 100%;
@@ -59,14 +55,14 @@ li.active {
   min-height: 100vh;
 }
 
-img {
-  width: 100%;
-}
-
 .container {
   flex: 1;
   margin: 20px;
   text-align: center;
+}
+
+img {
+  width: 100%;
 }
 
 h1 {
