@@ -5,6 +5,7 @@ const assets = [
   '/photos.html',
   '/css/styles.css',
   '/js/app.js',
+  '/manifest.json',
   '/assets/images/beach.jpg',
   '/assets/images/shenzhen.jpg',
   'assets/icons/android-chrome-192x192.png',
