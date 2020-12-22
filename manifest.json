@@ -1,6 +1,6 @@
 {
-    "name": "PWA My Travels",
-    "short_name": "PWAMyTravel",
+    "name": "My Travels",
+    "short_name": "My Travels",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#ff0081",
