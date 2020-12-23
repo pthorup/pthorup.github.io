@@ -46,13 +46,13 @@ li.active {
 li a:visited {
   color: #fff;
 }
-.main {
+main {
   width: 100%;
-  max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
   display: flex;
   min-height: 100vh;
+  max-width: 1024px;
 }
 
 .container {

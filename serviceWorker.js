@@ -1,4 +1,4 @@
-const cacheName = 'my-travel-v6';
+const cacheName = 'my-travel-v7';
 const assets = [
   '/',
   '/index.html',
@@ -8,6 +8,7 @@ const assets = [
   '/manifest.json',
   '/assets/images/beach.jpg',
   '/assets/images/shenzhen.jpg',
+  '/assets/images/travel.gif',
   '/assets/icons/android-chrome-192x192.png',
   '/assets/icons/favicon-16x16.png',
   '/assets/icons/favicon-32x32.png',
